@@ -4,6 +4,4 @@ Author: Grace Lee
 
 Date: Nov 2016
 
-
 The original code is deriven from Bluetooth Stack Smasher, and it was modified by Grace Lee. This code does fuzzing against bluetooth rfcomm layer protocol.
-This code is written by Grace Lee. 
